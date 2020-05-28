@@ -1,0 +1,54 @@
+body{
+    background: #56836f;
+}
+header{
+    padding-top: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.menu{
+    float: left;
+}
+.img{
+    float: right;
+}
+.clear{
+    clear: both;
+}
+ul li{
+    display: inline;
+    padding: 10px;
+    font-size: 48px;
+}
+ul li a{
+    color: white;
+    font-family: 'Myriad Pro';
+    text-transform: uppercase;
+}
+article{
+    padding: 80px;
+}
+.left{
+    width: 617px;
+    background: yellow;
+    float: left;
+    margin-left: 20px;
+    padding: 15px;
+}
+.left-img{
+    float: right;
+    margin-left: 10px;
+}
+.right-img{
+    float: left;
+    margin-right: 10px;
+}
+p{
+    margin-bottom: 10px;
+    color: #006837;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+}
+.left-text p{
+    color: black;
+}
